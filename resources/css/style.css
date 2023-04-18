@@ -1,0 +1,50 @@
+html{
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Header section */
+
+.first{
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+} 
+
+
+.link{
+   
+    color: aquamarine;
+    font-size: 16px;
+}
+
+/* body section*/
+
+.second{
+    font-family:Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+
+
+.fp{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+
+/* Footer section*/
+
+.exc{
+    text-align: right;
+    color: gray;
+}
+
+.excursion{
+    color: white;
+}
